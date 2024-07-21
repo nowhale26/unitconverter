@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="et_inch" >Inches</string>
+    <string name="et_yard" >Yards</string>
+    <string name="et_foot" >Feet</string>
+    <string name="et_mile" >Miles</string>
+    <string name="et_yottametre" >Yottametres</string>
+    <string name="et_zettametre" >Zettametres</string>
+    <string name="et_exametre" >Exametres</string>
+    <string name="et_petametre" >Petametres</string>
+    <string name="et_terametre" >Terametres</string>
+    <string name="et_gigametre" >Gigametres</string>
+    <string name="et_megametre" >Megametres</string>
+    <string name="et_kilometre" >Kilometres</string>
+    <string name="et_hectometre" >Hectometres</string>
+    <string name="et_decametre" >Decametres</string>
+    <string name="et_metre" >Metres</string>
+    <string name="et_decimetre" >Decimetres</string>
+    <string name="et_centimetre" >Centimetres</string>
+    <string name="et_millimetre" >Millimetres</string>
+    <string name="et_micrometre" >Micrometres</string>
+    <string name="et_nanometre" >Nanometres</string>
+    <string name="et_picometre" >Picometres</string>
+    <string name="et_femtometre" >Femtometres</string>
+    <string name="et_attometre" >Attometres</string>
+    <string name="et_zeptometre" >Zeptometres</string>
+    <string name="et_yoctometre" >Yoctometres</string>
+
+    <string-array name="text_view_captions">
+        <item>@string/et_inch</item>
+        <item>@string/et_yard</item>
+        <item>@string/et_foot</item>
+        <item>@string/et_mile</item>
+        <item>@string/et_yottametre</item>
+        <item>@string/et_zettametre</item>
+        <item>@string/et_exametre</item>
+        <item>@string/et_petametre</item>
+        <item>@string/et_terametre</item>
+        <item>@string/et_gigametre</item>
+        <item>@string/et_megametre</item>
+        <item>@string/et_kilometre</item>
+        <item>@string/et_hectometre</item>
+        <item>@string/et_decametre</item>
+        <item>@string/et_metre</item>
+        <item>@string/et_decimetre</item>
+        <item>@string/et_centimetre</item>
+        <item>@string/et_millimetre</item>
+        <item>@string/et_micrometre</item>
+        <item>@string/et_nanometre</item>
+        <item>@string/et_picometre</item>
+        <item>@string/et_femtometre</item>
+        <item>@string/et_attometre</item>
+        <item>@string/et_zeptometre</item>
+        <item>@string/et_yoctometre</item>
+    </string-array>
+</resources>
